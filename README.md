@@ -1,0 +1,2 @@
+# A-Built-a-Smart-Door-Lock-on-FPGA--Successfully-Validated-on-Hardware
+Designed and implemented a password-based smart door lock using Verilog on the AMD Spartan-7 (XC7S50) FPGA. V Features: 16-bit password authentication (OxAAAA) Displays "OPEN" on successful authentication and unlocks via SG90 servo motor Displays "SHUT" and remains locked for incorrect passwords Implemented FSM, button debounce. 
